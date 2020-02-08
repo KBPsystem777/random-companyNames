@@ -1,3 +1,5 @@
+![Dart CI](https://github.com/KBPsystem777/random-companyNames/workflows/Dart%20CI/badge.svg)
+
 # random_company_name
 
 A new Flutter project.
